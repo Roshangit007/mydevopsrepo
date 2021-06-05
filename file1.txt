@@ -1,1 +1,2 @@
 file 1 again modifed
+file 1 modifed for diff in working directory
