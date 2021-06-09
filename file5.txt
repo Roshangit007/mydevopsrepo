@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+this is file for conflict1
+>>>>>>> branch1
+this is file for conflict2
+this is 3rd conflict
+4th conf
