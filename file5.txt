@@ -5,3 +5,4 @@ this is file for conflict1
 this is file for conflict2
 this is 3rd conflict
 4th conf
+5th conflict
